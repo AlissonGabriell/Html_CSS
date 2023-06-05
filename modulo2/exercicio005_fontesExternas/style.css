@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    font-family:arial,helvetica,sans-serif;
+
+}
+
+h1{
+    font-family: 'Pacifico', cursive, sans-serif;
+    font-size: 3em;
+}
